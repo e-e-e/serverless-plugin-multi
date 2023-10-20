@@ -33,7 +33,7 @@
     "eslint-config-loanmarket-base": "^1.0.5",
     "istanbul": "^0.4.5",
     "mocha": "^4.1.0",
-    "serverless": "^1.25.0",
+    "serverless": "3.26.0",
     "sinon": "^4.1.4",
     "sinon-chai": "^2.14.0",
     "url-parse": "^1.4.3"
@@ -41,8 +41,9 @@
   "dependencies": {
     "ansi-diff": "^1.1.1",
     "chalk": "^2.4.1",
+    "etag": "^1.8.1",
     "get-installed-path": "^4.0.8",
-    "js-yaml": "^3.10.0",
+    "js-yaml": "4.1.0",
     "lodash": "^4.17.4"
   }
 }
